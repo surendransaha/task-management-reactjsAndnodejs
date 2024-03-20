@@ -1,4 +1,22 @@
-Api Details:
+**How to run our application:**
+
+**backend:**
+--------
+open in command promt for folder "MC-Task-Management/todotaskbackend"
+run,
+ 1. npm install
+ 2. npm start
+ 
+**frontend:**
+--------
+open in command promt for folder "MC-Task-Management/todotaskfrontend"
+run,
+ 1. npm install
+ 2. npm start
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Api Details:**
 
 **1. Get**:
 **url** : http://localhost:8080/api/todo?page=1&limit=10
@@ -35,7 +53,7 @@ Api Details:
     "id": "65f819e78978754c083243ef"
 }
 
----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Front-end Details**:
 
